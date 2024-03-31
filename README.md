@@ -11,4 +11,4 @@ Score Tracking: The app keeps track of the user's score as they progress through
 Dynamic Content: Questions and options can be easily customized and added to suit different topics or subjects.
 Responsive Design: The app is designed to be responsive and work well on various devices and screen sizes.
 
-View here : 
+View here : https://funquizapp2.netlify.app/
